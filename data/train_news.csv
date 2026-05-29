@@ -1,0 +1,972 @@
+Date,Headline
+2015-01-02,Analysts forecast growth in Index_C following earnings beat
+2015-01-07,Analysts forecast growth in Index_D following earnings beat
+2015-01-12,Central bank policy shift affects Index_A outlook
+2015-01-15,Index_B volatility spikes on Federal Reserve announcement
+2015-01-16,Energy prices impact Index_E amid geopolitical tensions
+2015-01-21,Crypto market rally lifts Index_A to new levels
+2015-02-03,Crypto market rally lifts Index_B to new levels
+2015-02-04,Oil price drop weighs on Index_C sector
+2015-02-05,Analysts forecast growth in Index_C following earnings beat
+2015-02-11,Central bank policy shift affects Index_A outlook
+2015-02-13,Index_B declines as recession fears mount
+2015-02-18,Oil price drop weighs on Index_F sector
+2015-02-19,Energy prices impact Index_F amid geopolitical tensions
+2015-02-23,Sustainable investments boost Index_E performance
+2015-02-25,Index_D declines as recession fears mount
+2015-02-26,Sustainable investments boost markets performance
+2015-03-04,Central bank policy shift affects Index_D outlook
+2015-03-06,Global ESG trend supports Index_D momentum
+2015-03-09,Crypto market rally lifts markets to new levels
+2015-03-10,Energy prices impact Index_E amid geopolitical tensions
+2015-03-18,markets declines as recession fears mount
+2015-03-24,Crypto market rally lifts Index_F to new levels
+2015-03-25,Central bank policy shift affects Index_D outlook
+2015-03-26,Energy prices impact Index_C amid geopolitical tensions
+2015-03-30,Tech stocks surge as Index_E breaks record high
+2015-04-06,Sustainable investments boost Index_D performance
+2015-04-07,Global ESG trend supports Index_F momentum
+2015-04-10,Central bank policy shift affects markets outlook
+2015-04-24,Energy prices impact Index_D amid geopolitical tensions
+2015-04-28,Index_B declines as recession fears mount
+2015-05-14,Analysts forecast growth in Index_F following earnings beat
+2015-05-15,Sustainable investments boost Index_C performance
+2015-05-19,Oil price drop weighs on Index_C sector
+2015-05-21,Tech stocks surge as Index_C breaks record high
+2015-05-26,Crypto market rally lifts Index_D to new levels
+2015-06-01,Analysts forecast growth in Index_D following earnings beat
+2015-06-15,Tech stocks surge as Index_E breaks record high
+2015-06-16,Crypto market rally lifts Index_D to new levels
+2015-06-19,Index_F volatility spikes on Federal Reserve announcement
+2015-06-22,Tech stocks surge as Index_B breaks record high
+2015-06-29,Global ESG trend supports Index_E momentum
+2015-06-30,Index_E declines as recession fears mount
+2015-07-01,Oil price drop weighs on markets sector
+2015-07-03,Tech stocks surge as Index_B breaks record high
+2015-07-10,Index_D declines as recession fears mount
+2015-07-14,Central bank policy shift affects Index_A outlook
+2015-07-16,Analysts forecast growth in Index_C following earnings beat
+2015-07-17,Central bank policy shift affects Index_D outlook
+2015-07-20,Analysts forecast growth in Index_D following earnings beat
+2015-07-21,Index_B volatility spikes on Federal Reserve announcement
+2015-07-27,Global ESG trend supports Index_D momentum
+2015-07-28,Global ESG trend supports Index_C momentum
+2015-07-29,Central bank policy shift affects Index_D outlook
+2015-07-30,Index_A volatility spikes on Federal Reserve announcement
+2015-08-03,Central bank policy shift affects Index_E outlook
+2015-08-05,Global ESG trend supports Index_F momentum
+2015-08-06,Crypto market rally lifts markets to new levels
+2015-08-10,Sustainable investments boost Index_D performance
+2015-08-13,Index_C declines as recession fears mount
+2015-08-14,Central bank policy shift affects markets outlook
+2015-08-18,Oil price drop weighs on Index_B sector
+2015-08-19,Analysts forecast growth in Index_A following earnings beat
+2015-08-25,markets declines as recession fears mount
+2015-08-31,Sustainable investments boost Index_C performance
+2015-09-08,Analysts forecast growth in Index_C following earnings beat
+2015-09-09,markets volatility spikes on Federal Reserve announcement
+2015-09-29,Crypto market rally lifts markets to new levels
+2015-10-01,Energy prices impact Index_C amid geopolitical tensions
+2015-10-02,Crypto market rally lifts Index_B to new levels
+2015-10-08,Energy prices impact Index_F amid geopolitical tensions
+2015-10-13,Sustainable investments boost Index_C performance
+2015-10-14,Oil price drop weighs on Index_A sector
+2015-10-15,Central bank policy shift affects Index_E outlook
+2015-10-23,Tech stocks surge as Index_D breaks record high
+2015-10-26,Tech stocks surge as Index_A breaks record high
+2015-10-27,Global ESG trend supports Index_A momentum
+2015-10-30,Global ESG trend supports Index_F momentum
+2015-11-02,Index_B declines as recession fears mount
+2015-11-03,Oil price drop weighs on Index_D sector
+2015-11-12,Analysts forecast growth in Index_F following earnings beat
+2015-11-13,Sustainable investments boost Index_E performance
+2015-11-16,Global ESG trend supports Index_A momentum
+2015-11-17,Oil price drop weighs on markets sector
+2015-11-20,Tech stocks surge as Index_D breaks record high
+2015-11-30,Tech stocks surge as markets breaks record high
+2015-12-03,Tech stocks surge as Index_C breaks record high
+2015-12-07,Index_C declines as recession fears mount
+2015-12-08,Tech stocks surge as Index_A breaks record high
+2015-12-09,Sustainable investments boost Index_E performance
+2015-12-14,Crypto market rally lifts Index_B to new levels
+2015-12-15,Crypto market rally lifts Index_C to new levels
+2015-12-16,Energy prices impact Index_A amid geopolitical tensions
+2015-12-18,Energy prices impact Index_E amid geopolitical tensions
+2015-12-21,Index_C declines as recession fears mount
+2015-12-22,Crypto market rally lifts Index_A to new levels
+2015-12-24,Crypto market rally lifts Index_B to new levels
+2015-12-30,Index_C volatility spikes on Federal Reserve announcement
+2016-01-01,Oil price drop weighs on Index_A sector
+2016-01-04,Energy prices impact Index_D amid geopolitical tensions
+2016-01-05,Global ESG trend supports Index_C momentum
+2016-01-06,Tech stocks surge as Index_D breaks record high
+2016-01-07,Global ESG trend supports Index_A momentum
+2016-01-12,Oil price drop weighs on Index_C sector
+2016-01-13,Global ESG trend supports Index_D momentum
+2016-01-14,Oil price drop weighs on Index_E sector
+2016-01-18,Crypto market rally lifts Index_F to new levels
+2016-01-28,Energy prices impact markets amid geopolitical tensions
+2016-01-29,Central bank policy shift affects Index_E outlook
+2016-02-03,Index_D declines as recession fears mount
+2016-02-04,Tech stocks surge as markets breaks record high
+2016-02-15,Tech stocks surge as Index_E breaks record high
+2016-02-16,Central bank policy shift affects Index_E outlook
+2016-02-17,Oil price drop weighs on Index_D sector
+2016-02-18,Central bank policy shift affects Index_A outlook
+2016-02-23,markets declines as recession fears mount
+2016-03-03,Index_A volatility spikes on Federal Reserve announcement
+2016-03-04,Sustainable investments boost markets performance
+2016-03-07,Index_E declines as recession fears mount
+2016-03-08,Crypto market rally lifts Index_C to new levels
+2016-03-09,Analysts forecast growth in Index_A following earnings beat
+2016-03-11,Index_F declines as recession fears mount
+2016-03-14,Global ESG trend supports Index_C momentum
+2016-03-15,Crypto market rally lifts Index_E to new levels
+2016-03-18,Sustainable investments boost Index_B performance
+2016-03-21,Index_B declines as recession fears mount
+2016-03-22,Tech stocks surge as Index_A breaks record high
+2016-03-24,Tech stocks surge as markets breaks record high
+2016-03-25,Central bank policy shift affects markets outlook
+2016-03-28,Tech stocks surge as Index_E breaks record high
+2016-03-29,Global ESG trend supports Index_C momentum
+2016-03-30,Tech stocks surge as Index_A breaks record high
+2016-04-01,Tech stocks surge as Index_F breaks record high
+2016-04-04,Crypto market rally lifts Index_E to new levels
+2016-04-06,Crypto market rally lifts Index_E to new levels
+2016-04-11,Crypto market rally lifts Index_C to new levels
+2016-04-13,Oil price drop weighs on markets sector
+2016-04-18,Crypto market rally lifts Index_F to new levels
+2016-04-21,Index_A declines as recession fears mount
+2016-04-25,Energy prices impact Index_C amid geopolitical tensions
+2016-04-26,Index_C volatility spikes on Federal Reserve announcement
+2016-05-04,Analysts forecast growth in Index_C following earnings beat
+2016-05-05,Crypto market rally lifts Index_D to new levels
+2016-05-10,markets volatility spikes on Federal Reserve announcement
+2016-05-12,Index_F volatility spikes on Federal Reserve announcement
+2016-05-16,Analysts forecast growth in Index_E following earnings beat
+2016-05-18,Oil price drop weighs on markets sector
+2016-05-19,Global ESG trend supports Index_B momentum
+2016-05-20,Energy prices impact Index_D amid geopolitical tensions
+2016-05-23,Oil price drop weighs on Index_E sector
+2016-05-24,Central bank policy shift affects Index_F outlook
+2016-05-25,Sustainable investments boost Index_B performance
+2016-05-27,Index_B declines as recession fears mount
+2016-06-03,Crypto market rally lifts markets to new levels
+2016-06-06,Global ESG trend supports Index_B momentum
+2016-06-08,Index_B volatility spikes on Federal Reserve announcement
+2016-06-09,Energy prices impact Index_C amid geopolitical tensions
+2016-06-15,Oil price drop weighs on Index_A sector
+2016-06-16,Global ESG trend supports Index_F momentum
+2016-06-23,Central bank policy shift affects Index_C outlook
+2016-06-24,Index_D declines as recession fears mount
+2016-06-29,Index_A declines as recession fears mount
+2016-06-30,Sustainable investments boost Index_E performance
+2016-07-01,Oil price drop weighs on markets sector
+2016-07-04,Global ESG trend supports Index_E momentum
+2016-07-08,Index_B declines as recession fears mount
+2016-07-12,Index_C volatility spikes on Federal Reserve announcement
+2016-07-13,Energy prices impact Index_B amid geopolitical tensions
+2016-07-14,Sustainable investments boost Index_E performance
+2016-07-18,Analysts forecast growth in Index_A following earnings beat
+2016-07-21,Tech stocks surge as Index_C breaks record high
+2016-07-22,Sustainable investments boost Index_C performance
+2016-07-28,Central bank policy shift affects markets outlook
+2016-08-01,Crypto market rally lifts markets to new levels
+2016-08-03,Global ESG trend supports Index_C momentum
+2016-08-05,Global ESG trend supports Index_F momentum
+2016-08-08,Tech stocks surge as Index_E breaks record high
+2016-08-09,Global ESG trend supports Index_A momentum
+2016-08-10,Central bank policy shift affects Index_E outlook
+2016-08-11,Crypto market rally lifts Index_D to new levels
+2016-08-12,Sustainable investments boost Index_D performance
+2016-08-15,Central bank policy shift affects Index_F outlook
+2016-08-25,Sustainable investments boost Index_E performance
+2016-08-29,Oil price drop weighs on Index_D sector
+2016-08-30,Analysts forecast growth in Index_D following earnings beat
+2016-09-02,Energy prices impact Index_D amid geopolitical tensions
+2016-09-06,Crypto market rally lifts Index_F to new levels
+2016-09-07,Index_F volatility spikes on Federal Reserve announcement
+2016-09-09,Energy prices impact markets amid geopolitical tensions
+2016-09-13,Oil price drop weighs on markets sector
+2016-09-14,Analysts forecast growth in Index_D following earnings beat
+2016-09-15,Index_D declines as recession fears mount
+2016-09-19,Index_B volatility spikes on Federal Reserve announcement
+2016-09-20,Central bank policy shift affects Index_B outlook
+2016-09-23,Energy prices impact Index_B amid geopolitical tensions
+2016-09-28,Analysts forecast growth in Index_E following earnings beat
+2016-10-07,Global ESG trend supports markets momentum
+2016-10-13,Tech stocks surge as Index_B breaks record high
+2016-10-18,Sustainable investments boost Index_D performance
+2016-10-20,Energy prices impact Index_D amid geopolitical tensions
+2016-10-21,Energy prices impact Index_B amid geopolitical tensions
+2016-10-24,Tech stocks surge as Index_B breaks record high
+2016-10-27,Index_F volatility spikes on Federal Reserve announcement
+2016-10-28,Central bank policy shift affects Index_A outlook
+2016-11-01,Global ESG trend supports Index_E momentum
+2016-11-03,Crypto market rally lifts Index_E to new levels
+2016-11-04,Oil price drop weighs on Index_F sector
+2016-11-08,Analysts forecast growth in Index_A following earnings beat
+2016-11-09,Analysts forecast growth in Index_A following earnings beat
+2016-11-11,Oil price drop weighs on Index_B sector
+2016-11-28,Sustainable investments boost markets performance
+2016-12-02,Sustainable investments boost Index_F performance
+2016-12-06,Crypto market rally lifts Index_B to new levels
+2016-12-07,Index_D volatility spikes on Federal Reserve announcement
+2016-12-14,Index_E volatility spikes on Federal Reserve announcement
+2016-12-19,Sustainable investments boost Index_E performance
+2016-12-23,Tech stocks surge as Index_F breaks record high
+2016-12-28,Tech stocks surge as markets breaks record high
+2017-01-03,Index_D declines as recession fears mount
+2017-01-06,Sustainable investments boost Index_A performance
+2017-01-10,Crypto market rally lifts Index_C to new levels
+2017-01-11,Index_E volatility spikes on Federal Reserve announcement
+2017-01-16,Crypto market rally lifts Index_A to new levels
+2017-01-19,Tech stocks surge as markets breaks record high
+2017-01-20,markets declines as recession fears mount
+2017-02-01,Tech stocks surge as markets breaks record high
+2017-02-07,Tech stocks surge as Index_C breaks record high
+2017-02-09,Index_C volatility spikes on Federal Reserve announcement
+2017-02-20,Oil price drop weighs on Index_D sector
+2017-02-21,Sustainable investments boost Index_D performance
+2017-02-23,Global ESG trend supports Index_D momentum
+2017-02-27,Index_B declines as recession fears mount
+2017-03-02,Index_C declines as recession fears mount
+2017-03-07,Central bank policy shift affects Index_C outlook
+2017-03-08,Crypto market rally lifts Index_C to new levels
+2017-03-10,Index_F volatility spikes on Federal Reserve announcement
+2017-03-13,Tech stocks surge as Index_B breaks record high
+2017-03-16,Global ESG trend supports markets momentum
+2017-03-17,markets volatility spikes on Federal Reserve announcement
+2017-03-20,Crypto market rally lifts Index_B to new levels
+2017-03-22,Sustainable investments boost Index_E performance
+2017-03-23,Oil price drop weighs on Index_A sector
+2017-03-27,Crypto market rally lifts Index_D to new levels
+2017-03-31,Crypto market rally lifts Index_D to new levels
+2017-04-05,Oil price drop weighs on Index_C sector
+2017-04-06,Energy prices impact Index_F amid geopolitical tensions
+2017-04-07,Energy prices impact Index_F amid geopolitical tensions
+2017-04-13,Global ESG trend supports Index_E momentum
+2017-04-17,Sustainable investments boost Index_C performance
+2017-04-20,Oil price drop weighs on markets sector
+2017-04-26,Oil price drop weighs on Index_B sector
+2017-05-02,Sustainable investments boost Index_A performance
+2017-05-04,Crypto market rally lifts Index_D to new levels
+2017-05-05,Index_A declines as recession fears mount
+2017-05-11,Index_C volatility spikes on Federal Reserve announcement
+2017-05-15,Oil price drop weighs on Index_C sector
+2017-05-16,Energy prices impact Index_D amid geopolitical tensions
+2017-05-17,Index_C volatility spikes on Federal Reserve announcement
+2017-05-22,Oil price drop weighs on markets sector
+2017-05-24,Analysts forecast growth in Index_C following earnings beat
+2017-05-30,Tech stocks surge as markets breaks record high
+2017-05-31,Index_B declines as recession fears mount
+2017-06-01,Crypto market rally lifts Index_F to new levels
+2017-06-09,Tech stocks surge as Index_B breaks record high
+2017-06-12,Crypto market rally lifts Index_D to new levels
+2017-06-14,Sustainable investments boost Index_F performance
+2017-06-15,Tech stocks surge as Index_E breaks record high
+2017-06-19,Index_B volatility spikes on Federal Reserve announcement
+2017-06-20,Crypto market rally lifts Index_D to new levels
+2017-06-21,Analysts forecast growth in markets following earnings beat
+2017-06-22,Central bank policy shift affects Index_E outlook
+2017-06-26,Index_B volatility spikes on Federal Reserve announcement
+2017-06-27,Tech stocks surge as Index_D breaks record high
+2017-06-29,Crypto market rally lifts Index_B to new levels
+2017-07-04,Index_C declines as recession fears mount
+2017-07-06,Tech stocks surge as markets breaks record high
+2017-07-10,Index_E declines as recession fears mount
+2017-07-12,Central bank policy shift affects Index_C outlook
+2017-07-14,Energy prices impact markets amid geopolitical tensions
+2017-07-17,Energy prices impact Index_D amid geopolitical tensions
+2017-07-18,Crypto market rally lifts markets to new levels
+2017-07-21,Central bank policy shift affects markets outlook
+2017-07-24,Energy prices impact Index_D amid geopolitical tensions
+2017-07-25,Global ESG trend supports Index_E momentum
+2017-08-02,markets declines as recession fears mount
+2017-08-03,Crypto market rally lifts Index_A to new levels
+2017-08-08,Global ESG trend supports Index_C momentum
+2017-08-09,Analysts forecast growth in Index_A following earnings beat
+2017-08-10,Central bank policy shift affects Index_A outlook
+2017-08-15,Crypto market rally lifts markets to new levels
+2017-08-18,Analysts forecast growth in Index_E following earnings beat
+2017-08-22,Energy prices impact Index_D amid geopolitical tensions
+2017-08-23,Oil price drop weighs on markets sector
+2017-08-25,Index_A volatility spikes on Federal Reserve announcement
+2017-08-28,Energy prices impact Index_B amid geopolitical tensions
+2017-09-01,Sustainable investments boost Index_E performance
+2017-09-04,Analysts forecast growth in Index_F following earnings beat
+2017-09-12,Oil price drop weighs on Index_B sector
+2017-09-15,Crypto market rally lifts Index_B to new levels
+2017-09-25,Analysts forecast growth in Index_C following earnings beat
+2017-09-27,Tech stocks surge as Index_D breaks record high
+2017-10-03,Energy prices impact Index_B amid geopolitical tensions
+2017-10-04,Global ESG trend supports Index_C momentum
+2017-10-11,Global ESG trend supports Index_C momentum
+2017-10-12,Crypto market rally lifts markets to new levels
+2017-10-18,Energy prices impact markets amid geopolitical tensions
+2017-10-24,Analysts forecast growth in Index_C following earnings beat
+2017-10-26,Index_A declines as recession fears mount
+2017-10-31,Global ESG trend supports Index_C momentum
+2017-11-01,Analysts forecast growth in markets following earnings beat
+2017-11-02,Crypto market rally lifts Index_C to new levels
+2017-11-03,Oil price drop weighs on Index_E sector
+2017-11-10,Crypto market rally lifts Index_E to new levels
+2017-11-16,Oil price drop weighs on Index_B sector
+2017-11-20,Crypto market rally lifts Index_F to new levels
+2017-11-21,Analysts forecast growth in Index_F following earnings beat
+2017-11-23,Tech stocks surge as Index_C breaks record high
+2017-11-24,Tech stocks surge as Index_B breaks record high
+2017-11-27,Energy prices impact Index_E amid geopolitical tensions
+2017-11-29,Tech stocks surge as Index_E breaks record high
+2017-12-13,Global ESG trend supports Index_B momentum
+2017-12-14,Oil price drop weighs on Index_B sector
+2017-12-21,Central bank policy shift affects markets outlook
+2017-12-27,Oil price drop weighs on Index_E sector
+2017-12-29,Oil price drop weighs on Index_A sector
+2018-01-01,Energy prices impact Index_A amid geopolitical tensions
+2018-01-10,Central bank policy shift affects Index_E outlook
+2018-01-11,Global ESG trend supports Index_A momentum
+2018-01-15,Sustainable investments boost Index_A performance
+2018-01-16,Central bank policy shift affects Index_E outlook
+2018-01-22,Index_A volatility spikes on Federal Reserve announcement
+2018-01-30,Central bank policy shift affects Index_E outlook
+2018-02-06,Analysts forecast growth in Index_A following earnings beat
+2018-02-13,Analysts forecast growth in Index_C following earnings beat
+2018-02-14,Sustainable investments boost Index_D performance
+2018-02-15,Energy prices impact Index_C amid geopolitical tensions
+2018-02-23,Index_C declines as recession fears mount
+2018-02-26,Crypto market rally lifts Index_C to new levels
+2018-02-28,Oil price drop weighs on Index_A sector
+2018-03-02,Global ESG trend supports Index_C momentum
+2018-03-05,Energy prices impact Index_D amid geopolitical tensions
+2018-03-07,Index_E declines as recession fears mount
+2018-03-12,Index_B declines as recession fears mount
+2018-03-14,Tech stocks surge as markets breaks record high
+2018-03-16,Energy prices impact markets amid geopolitical tensions
+2018-03-19,Energy prices impact Index_D amid geopolitical tensions
+2018-03-20,Energy prices impact Index_E amid geopolitical tensions
+2018-03-22,Global ESG trend supports markets momentum
+2018-03-26,Index_F declines as recession fears mount
+2018-03-27,Global ESG trend supports Index_A momentum
+2018-03-29,Energy prices impact Index_C amid geopolitical tensions
+2018-03-30,Tech stocks surge as markets breaks record high
+2018-04-04,Central bank policy shift affects Index_A outlook
+2018-04-06,Sustainable investments boost Index_D performance
+2018-04-17,Tech stocks surge as Index_D breaks record high
+2018-04-18,Index_D declines as recession fears mount
+2018-04-20,Crypto market rally lifts Index_B to new levels
+2018-04-23,Index_B volatility spikes on Federal Reserve announcement
+2018-04-24,Energy prices impact markets amid geopolitical tensions
+2018-04-27,Index_E volatility spikes on Federal Reserve announcement
+2018-05-02,Oil price drop weighs on Index_D sector
+2018-05-03,Crypto market rally lifts Index_B to new levels
+2018-05-07,Oil price drop weighs on Index_E sector
+2018-05-08,Crypto market rally lifts Index_C to new levels
+2018-05-23,Index_B declines as recession fears mount
+2018-05-28,Tech stocks surge as Index_F breaks record high
+2018-06-01,Sustainable investments boost Index_A performance
+2018-06-04,Central bank policy shift affects Index_E outlook
+2018-06-05,Index_A volatility spikes on Federal Reserve announcement
+2018-06-07,Index_B declines as recession fears mount
+2018-06-14,Global ESG trend supports Index_A momentum
+2018-06-15,Analysts forecast growth in Index_E following earnings beat
+2018-06-18,Tech stocks surge as Index_C breaks record high
+2018-06-20,Crypto market rally lifts Index_D to new levels
+2018-06-21,Index_B declines as recession fears mount
+2018-06-25,Global ESG trend supports Index_A momentum
+2018-06-27,Index_E declines as recession fears mount
+2018-07-04,Central bank policy shift affects Index_B outlook
+2018-07-05,Global ESG trend supports markets momentum
+2018-07-06,Global ESG trend supports markets momentum
+2018-07-09,Tech stocks surge as Index_B breaks record high
+2018-07-11,Sustainable investments boost Index_B performance
+2018-07-16,Energy prices impact Index_B amid geopolitical tensions
+2018-07-17,Index_F volatility spikes on Federal Reserve announcement
+2018-07-19,Crypto market rally lifts Index_A to new levels
+2018-07-20,markets declines as recession fears mount
+2018-07-23,Oil price drop weighs on markets sector
+2018-07-24,Crypto market rally lifts Index_C to new levels
+2018-08-01,Index_B declines as recession fears mount
+2018-08-03,Oil price drop weighs on markets sector
+2018-08-09,Analysts forecast growth in Index_A following earnings beat
+2018-08-13,Sustainable investments boost Index_D performance
+2018-08-15,Tech stocks surge as Index_C breaks record high
+2018-08-16,Crypto market rally lifts Index_E to new levels
+2018-08-17,Tech stocks surge as Index_D breaks record high
+2018-08-22,Index_C declines as recession fears mount
+2018-09-05,Sustainable investments boost Index_A performance
+2018-09-12,Crypto market rally lifts Index_B to new levels
+2018-09-14,Index_A declines as recession fears mount
+2018-09-18,Central bank policy shift affects markets outlook
+2018-09-24,Analysts forecast growth in Index_E following earnings beat
+2018-09-26,Crypto market rally lifts markets to new levels
+2018-09-27,Central bank policy shift affects Index_F outlook
+2018-10-23,Central bank policy shift affects Index_A outlook
+2018-11-05,Analysts forecast growth in Index_C following earnings beat
+2018-11-07,Index_B declines as recession fears mount
+2018-11-09,Crypto market rally lifts Index_D to new levels
+2018-11-12,Tech stocks surge as Index_B breaks record high
+2018-11-15,Crypto market rally lifts Index_E to new levels
+2018-11-16,Global ESG trend supports Index_F momentum
+2018-11-20,Analysts forecast growth in Index_A following earnings beat
+2018-11-21,Global ESG trend supports Index_D momentum
+2018-11-22,Tech stocks surge as Index_A breaks record high
+2018-11-23,Global ESG trend supports Index_F momentum
+2018-11-27,Index_B declines as recession fears mount
+2018-11-28,Tech stocks surge as Index_B breaks record high
+2018-11-29,Sustainable investments boost Index_D performance
+2018-12-03,Tech stocks surge as Index_F breaks record high
+2018-12-04,Analysts forecast growth in Index_D following earnings beat
+2018-12-10,Sustainable investments boost Index_E performance
+2018-12-12,Oil price drop weighs on Index_B sector
+2018-12-14,Analysts forecast growth in Index_A following earnings beat
+2018-12-18,Central bank policy shift affects Index_A outlook
+2018-12-20,Tech stocks surge as Index_D breaks record high
+2018-12-21,Tech stocks surge as Index_C breaks record high
+2018-12-25,Index_D volatility spikes on Federal Reserve announcement
+2019-01-02,Oil price drop weighs on Index_A sector
+2019-01-09,Index_D declines as recession fears mount
+2019-01-14,Tech stocks surge as markets breaks record high
+2019-01-17,Index_D volatility spikes on Federal Reserve announcement
+2019-01-29,Central bank policy shift affects Index_B outlook
+2019-02-01,Oil price drop weighs on Index_B sector
+2019-02-04,Index_E declines as recession fears mount
+2019-02-05,Analysts forecast growth in Index_D following earnings beat
+2019-02-06,Energy prices impact Index_C amid geopolitical tensions
+2019-02-13,Crypto market rally lifts Index_D to new levels
+2019-02-15,Index_B volatility spikes on Federal Reserve announcement
+2019-02-20,Energy prices impact markets amid geopolitical tensions
+2019-02-21,Sustainable investments boost Index_C performance
+2019-02-22,Sustainable investments boost markets performance
+2019-02-25,Central bank policy shift affects Index_C outlook
+2019-02-28,Crypto market rally lifts Index_C to new levels
+2019-03-01,Global ESG trend supports Index_E momentum
+2019-03-04,Crypto market rally lifts Index_C to new levels
+2019-03-14,Central bank policy shift affects Index_A outlook
+2019-03-18,Energy prices impact Index_F amid geopolitical tensions
+2019-03-20,Analysts forecast growth in Index_B following earnings beat
+2019-03-21,Oil price drop weighs on Index_F sector
+2019-03-29,Oil price drop weighs on Index_C sector
+2019-04-04,Index_E volatility spikes on Federal Reserve announcement
+2019-04-05,Global ESG trend supports Index_D momentum
+2019-04-09,Crypto market rally lifts Index_E to new levels
+2019-04-12,Index_F declines as recession fears mount
+2019-04-16,Tech stocks surge as Index_A breaks record high
+2019-04-22,Index_B declines as recession fears mount
+2019-04-23,Tech stocks surge as Index_F breaks record high
+2019-04-25,Central bank policy shift affects Index_C outlook
+2019-04-29,Sustainable investments boost Index_F performance
+2019-04-30,Global ESG trend supports markets momentum
+2019-05-08,Oil price drop weighs on Index_B sector
+2019-05-10,Oil price drop weighs on Index_B sector
+2019-05-13,Oil price drop weighs on Index_B sector
+2019-05-14,Index_F declines as recession fears mount
+2019-05-15,Global ESG trend supports markets momentum
+2019-05-17,Tech stocks surge as markets breaks record high
+2019-05-20,Energy prices impact Index_D amid geopolitical tensions
+2019-05-22,Global ESG trend supports Index_B momentum
+2019-05-27,markets volatility spikes on Federal Reserve announcement
+2019-06-03,Index_A volatility spikes on Federal Reserve announcement
+2019-06-06,Index_B declines as recession fears mount
+2019-06-07,Global ESG trend supports Index_A momentum
+2019-06-11,Oil price drop weighs on Index_B sector
+2019-06-13,Energy prices impact Index_F amid geopolitical tensions
+2019-06-14,Global ESG trend supports Index_B momentum
+2019-06-19,Analysts forecast growth in Index_C following earnings beat
+2019-06-20,Analysts forecast growth in Index_F following earnings beat
+2019-06-21,Central bank policy shift affects markets outlook
+2019-06-25,Global ESG trend supports markets momentum
+2019-06-28,Sustainable investments boost Index_E performance
+2019-07-01,Oil price drop weighs on Index_D sector
+2019-07-02,Central bank policy shift affects Index_B outlook
+2019-07-08,markets volatility spikes on Federal Reserve announcement
+2019-07-11,Sustainable investments boost Index_B performance
+2019-07-16,Index_A declines as recession fears mount
+2019-07-17,markets volatility spikes on Federal Reserve announcement
+2019-07-22,Central bank policy shift affects Index_D outlook
+2019-07-25,Sustainable investments boost Index_D performance
+2019-07-29,Sustainable investments boost Index_C performance
+2019-07-31,Central bank policy shift affects markets outlook
+2019-08-05,Index_F volatility spikes on Federal Reserve announcement
+2019-08-07,Global ESG trend supports Index_A momentum
+2019-08-12,Crypto market rally lifts markets to new levels
+2019-08-13,Energy prices impact Index_E amid geopolitical tensions
+2019-08-14,Crypto market rally lifts Index_B to new levels
+2019-08-21,Sustainable investments boost Index_D performance
+2019-08-26,Oil price drop weighs on Index_C sector
+2019-08-27,Index_A volatility spikes on Federal Reserve announcement
+2019-08-29,Central bank policy shift affects Index_B outlook
+2019-09-02,Central bank policy shift affects Index_B outlook
+2019-09-03,Tech stocks surge as Index_B breaks record high
+2019-09-04,Global ESG trend supports Index_C momentum
+2019-09-09,Crypto market rally lifts Index_A to new levels
+2019-09-11,Oil price drop weighs on Index_C sector
+2019-09-13,Global ESG trend supports Index_A momentum
+2019-09-16,Global ESG trend supports Index_F momentum
+2019-09-17,Analysts forecast growth in Index_C following earnings beat
+2019-09-20,Index_A volatility spikes on Federal Reserve announcement
+2019-09-24,Index_F volatility spikes on Federal Reserve announcement
+2019-10-02,Global ESG trend supports Index_E momentum
+2019-10-07,Sustainable investments boost Index_F performance
+2019-10-08,Sustainable investments boost markets performance
+2019-10-16,Index_D volatility spikes on Federal Reserve announcement
+2019-10-21,Sustainable investments boost Index_A performance
+2019-10-22,Analysts forecast growth in Index_B following earnings beat
+2019-10-23,Central bank policy shift affects Index_B outlook
+2019-10-24,Sustainable investments boost markets performance
+2019-10-28,Energy prices impact Index_C amid geopolitical tensions
+2019-10-30,Index_A declines as recession fears mount
+2019-11-04,Sustainable investments boost Index_A performance
+2019-11-05,Index_F volatility spikes on Federal Reserve announcement
+2019-11-08,Analysts forecast growth in Index_D following earnings beat
+2019-11-11,Global ESG trend supports Index_F momentum
+2019-11-18,Oil price drop weighs on Index_F sector
+2019-11-20,Global ESG trend supports Index_E momentum
+2019-11-22,Crypto market rally lifts Index_F to new levels
+2019-11-26,Analysts forecast growth in Index_E following earnings beat
+2019-11-27,Energy prices impact Index_A amid geopolitical tensions
+2019-12-02,Energy prices impact Index_E amid geopolitical tensions
+2019-12-03,Oil price drop weighs on Index_C sector
+2019-12-06,Analysts forecast growth in Index_D following earnings beat
+2019-12-09,markets declines as recession fears mount
+2019-12-10,Tech stocks surge as Index_E breaks record high
+2019-12-12,Energy prices impact Index_B amid geopolitical tensions
+2019-12-16,Central bank policy shift affects markets outlook
+2019-12-19,Analysts forecast growth in markets following earnings beat
+2019-12-26,Index_C declines as recession fears mount
+2019-12-31,Oil price drop weighs on Index_F sector
+2020-01-06,Global ESG trend supports Index_C momentum
+2020-01-13,Energy prices impact Index_C amid geopolitical tensions
+2020-01-14,Oil price drop weighs on Index_A sector
+2020-01-21,Index_D volatility spikes on Federal Reserve announcement
+2020-01-22,Tech stocks surge as Index_A breaks record high
+2020-01-23,Index_C declines as recession fears mount
+2020-01-31,Analysts forecast growth in Index_E following earnings beat
+2020-02-06,Crypto market rally lifts Index_B to new levels
+2020-02-07,Oil price drop weighs on Index_A sector
+2020-02-10,Energy prices impact markets amid geopolitical tensions
+2020-02-12,Index_D volatility spikes on Federal Reserve announcement
+2020-02-14,Analysts forecast growth in Index_D following earnings beat
+2020-02-19,Crypto market rally lifts Index_D to new levels
+2020-02-20,Global ESG trend supports markets momentum
+2020-02-21,Oil price drop weighs on markets sector
+2020-02-24,Sustainable investments boost Index_B performance
+2020-02-26,Index_D declines as recession fears mount
+2020-03-04,Oil price drop weighs on Index_F sector
+2020-03-09,Analysts forecast growth in markets following earnings beat
+2020-03-10,Central bank policy shift affects Index_F outlook
+2020-03-11,Crypto market rally lifts Index_B to new levels
+2020-03-16,Crypto market rally lifts Index_F to new levels
+2020-03-18,Tech stocks surge as Index_D breaks record high
+2020-03-23,Global ESG trend supports markets momentum
+2020-03-24,Energy prices impact Index_F amid geopolitical tensions
+2020-03-27,Sustainable investments boost Index_C performance
+2020-03-30,Global ESG trend supports Index_D momentum
+2020-04-02,Energy prices impact Index_F amid geopolitical tensions
+2020-04-03,Oil price drop weighs on Index_D sector
+2020-04-09,Index_A volatility spikes on Federal Reserve announcement
+2020-04-10,Tech stocks surge as Index_C breaks record high
+2020-04-14,Analysts forecast growth in Index_D following earnings beat
+2020-04-15,Central bank policy shift affects Index_C outlook
+2020-04-17,Energy prices impact Index_C amid geopolitical tensions
+2020-04-24,Sustainable investments boost Index_A performance
+2020-04-30,Energy prices impact Index_F amid geopolitical tensions
+2020-05-04,Index_C declines as recession fears mount
+2020-05-05,Central bank policy shift affects Index_B outlook
+2020-05-08,Index_E declines as recession fears mount
+2020-05-11,Oil price drop weighs on Index_F sector
+2020-05-12,Oil price drop weighs on Index_D sector
+2020-05-13,Index_A declines as recession fears mount
+2020-05-14,Crypto market rally lifts Index_E to new levels
+2020-05-18,Crypto market rally lifts Index_F to new levels
+2020-05-21,Tech stocks surge as Index_D breaks record high
+2020-05-29,Crypto market rally lifts Index_F to new levels
+2020-06-01,Energy prices impact Index_F amid geopolitical tensions
+2020-06-02,Central bank policy shift affects Index_B outlook
+2020-06-05,Crypto market rally lifts Index_F to new levels
+2020-06-08,Analysts forecast growth in Index_D following earnings beat
+2020-06-11,Sustainable investments boost markets performance
+2020-06-12,Global ESG trend supports Index_D momentum
+2020-06-16,Central bank policy shift affects Index_E outlook
+2020-06-17,Sustainable investments boost Index_B performance
+2020-06-18,Index_E declines as recession fears mount
+2020-06-30,markets volatility spikes on Federal Reserve announcement
+2020-07-08,Sustainable investments boost Index_A performance
+2020-07-10,Index_B volatility spikes on Federal Reserve announcement
+2020-07-16,markets declines as recession fears mount
+2020-07-22,Analysts forecast growth in Index_B following earnings beat
+2020-07-23,Central bank policy shift affects Index_E outlook
+2020-07-24,Analysts forecast growth in Index_B following earnings beat
+2020-07-30,Sustainable investments boost Index_F performance
+2020-07-31,Tech stocks surge as Index_F breaks record high
+2020-08-10,Global ESG trend supports Index_B momentum
+2020-08-11,Tech stocks surge as markets breaks record high
+2020-08-12,Index_C volatility spikes on Federal Reserve announcement
+2020-08-25,Global ESG trend supports Index_A momentum
+2020-08-26,Index_E declines as recession fears mount
+2020-08-27,Global ESG trend supports Index_E momentum
+2020-09-02,Analysts forecast growth in Index_B following earnings beat
+2020-09-03,Central bank policy shift affects Index_A outlook
+2020-09-09,Crypto market rally lifts Index_E to new levels
+2020-09-11,Crypto market rally lifts Index_E to new levels
+2020-09-14,Sustainable investments boost Index_F performance
+2020-09-15,Oil price drop weighs on Index_A sector
+2020-09-17,Energy prices impact Index_B amid geopolitical tensions
+2020-09-18,Global ESG trend supports Index_D momentum
+2020-09-23,Oil price drop weighs on Index_D sector
+2020-09-24,Analysts forecast growth in Index_F following earnings beat
+2020-10-01,Energy prices impact Index_F amid geopolitical tensions
+2020-10-05,Analysts forecast growth in Index_E following earnings beat
+2020-10-06,Index_B declines as recession fears mount
+2020-10-13,Tech stocks surge as Index_A breaks record high
+2020-10-15,Oil price drop weighs on Index_E sector
+2020-10-16,Index_F declines as recession fears mount
+2020-10-19,Central bank policy shift affects Index_F outlook
+2020-10-21,Energy prices impact Index_B amid geopolitical tensions
+2020-10-23,Tech stocks surge as Index_C breaks record high
+2020-10-26,Oil price drop weighs on markets sector
+2020-10-27,Central bank policy shift affects Index_A outlook
+2020-10-28,Sustainable investments boost Index_C performance
+2020-11-02,Oil price drop weighs on markets sector
+2020-11-03,markets declines as recession fears mount
+2020-11-04,Index_C declines as recession fears mount
+2020-11-06,Analysts forecast growth in markets following earnings beat
+2020-11-10,Index_D volatility spikes on Federal Reserve announcement
+2020-11-16,Crypto market rally lifts Index_C to new levels
+2020-11-17,Oil price drop weighs on markets sector
+2020-11-20,Crypto market rally lifts Index_C to new levels
+2020-11-27,Sustainable investments boost Index_D performance
+2020-11-30,Analysts forecast growth in Index_A following earnings beat
+2020-12-07,Central bank policy shift affects Index_F outlook
+2020-12-15,Tech stocks surge as Index_D breaks record high
+2020-12-18,Analysts forecast growth in Index_D following earnings beat
+2020-12-21,Sustainable investments boost Index_C performance
+2020-12-25,Energy prices impact Index_D amid geopolitical tensions
+2020-12-29,Tech stocks surge as Index_B breaks record high
+2020-12-31,Tech stocks surge as Index_A breaks record high
+2021-01-05,Analysts forecast growth in Index_E following earnings beat
+2021-01-07,Index_B volatility spikes on Federal Reserve announcement
+2021-01-11,Index_D declines as recession fears mount
+2021-01-12,Energy prices impact Index_F amid geopolitical tensions
+2021-01-15,Central bank policy shift affects Index_E outlook
+2021-01-19,Oil price drop weighs on Index_B sector
+2021-01-21,Tech stocks surge as markets breaks record high
+2021-01-28,Oil price drop weighs on markets sector
+2021-01-29,Energy prices impact Index_A amid geopolitical tensions
+2021-02-01,Energy prices impact Index_D amid geopolitical tensions
+2021-02-02,Oil price drop weighs on Index_E sector
+2021-02-03,Energy prices impact Index_F amid geopolitical tensions
+2021-02-08,Energy prices impact Index_D amid geopolitical tensions
+2021-02-10,Crypto market rally lifts Index_E to new levels
+2021-02-11,Analysts forecast growth in markets following earnings beat
+2021-02-12,Sustainable investments boost Index_E performance
+2021-02-18,Analysts forecast growth in Index_A following earnings beat
+2021-02-22,Crypto market rally lifts Index_F to new levels
+2021-03-11,Crypto market rally lifts Index_D to new levels
+2021-03-12,Analysts forecast growth in Index_F following earnings beat
+2021-03-15,Global ESG trend supports Index_E momentum
+2021-03-18,Energy prices impact Index_A amid geopolitical tensions
+2021-03-23,Global ESG trend supports markets momentum
+2021-03-29,Index_E declines as recession fears mount
+2021-03-31,Energy prices impact Index_E amid geopolitical tensions
+2021-04-01,markets declines as recession fears mount
+2021-04-05,Central bank policy shift affects Index_E outlook
+2021-04-09,Tech stocks surge as Index_E breaks record high
+2021-04-13,Analysts forecast growth in Index_B following earnings beat
+2021-04-14,Index_B declines as recession fears mount
+2021-04-19,Tech stocks surge as Index_B breaks record high
+2021-04-22,Oil price drop weighs on Index_B sector
+2021-04-26,Central bank policy shift affects markets outlook
+2021-04-28,Central bank policy shift affects Index_F outlook
+2021-05-04,Global ESG trend supports markets momentum
+2021-05-05,Sustainable investments boost Index_E performance
+2021-05-10,markets volatility spikes on Federal Reserve announcement
+2021-05-18,Crypto market rally lifts Index_C to new levels
+2021-05-19,Energy prices impact Index_A amid geopolitical tensions
+2021-05-20,Oil price drop weighs on markets sector
+2021-05-21,Energy prices impact Index_E amid geopolitical tensions
+2021-05-24,Index_F volatility spikes on Federal Reserve announcement
+2021-05-31,Sustainable investments boost Index_B performance
+2021-06-01,Crypto market rally lifts Index_C to new levels
+2021-06-04,Crypto market rally lifts Index_C to new levels
+2021-06-07,Central bank policy shift affects markets outlook
+2021-06-09,Energy prices impact Index_A amid geopolitical tensions
+2021-06-10,Analysts forecast growth in markets following earnings beat
+2021-06-15,Central bank policy shift affects Index_C outlook
+2021-06-18,Crypto market rally lifts Index_C to new levels
+2021-06-21,Crypto market rally lifts Index_A to new levels
+2021-07-05,Energy prices impact Index_D amid geopolitical tensions
+2021-07-08,Index_F declines as recession fears mount
+2021-07-12,Sustainable investments boost Index_C performance
+2021-07-13,Analysts forecast growth in Index_A following earnings beat
+2021-07-19,Index_D declines as recession fears mount
+2021-07-20,Energy prices impact Index_A amid geopolitical tensions
+2021-07-21,Sustainable investments boost Index_E performance
+2021-07-22,Sustainable investments boost Index_D performance
+2021-07-27,Oil price drop weighs on Index_B sector
+2021-08-02,Tech stocks surge as Index_A breaks record high
+2021-08-03,Energy prices impact Index_E amid geopolitical tensions
+2021-08-05,Energy prices impact Index_C amid geopolitical tensions
+2021-08-09,Index_F declines as recession fears mount
+2021-08-10,Crypto market rally lifts markets to new levels
+2021-08-18,Index_B volatility spikes on Federal Reserve announcement
+2021-08-20,Central bank policy shift affects Index_D outlook
+2021-08-24,Global ESG trend supports Index_F momentum
+2021-08-25,Oil price drop weighs on Index_D sector
+2021-08-26,Analysts forecast growth in markets following earnings beat
+2021-08-30,Index_B volatility spikes on Federal Reserve announcement
+2021-08-31,Crypto market rally lifts Index_E to new levels
+2021-09-01,Global ESG trend supports Index_B momentum
+2021-09-03,Central bank policy shift affects Index_D outlook
+2021-09-06,Energy prices impact markets amid geopolitical tensions
+2021-09-07,Index_B declines as recession fears mount
+2021-09-10,Tech stocks surge as Index_E breaks record high
+2021-09-14,Index_B volatility spikes on Federal Reserve announcement
+2021-09-17,Index_B declines as recession fears mount
+2021-09-20,Index_A declines as recession fears mount
+2021-10-06,Tech stocks surge as Index_B breaks record high
+2021-10-07,Central bank policy shift affects Index_C outlook
+2021-10-08,Energy prices impact Index_F amid geopolitical tensions
+2021-10-13,Oil price drop weighs on Index_A sector
+2021-10-15,Analysts forecast growth in Index_A following earnings beat
+2021-10-18,Crypto market rally lifts Index_E to new levels
+2021-10-21,Sustainable investments boost Index_A performance
+2021-10-22,Central bank policy shift affects Index_B outlook
+2021-10-27,Central bank policy shift affects markets outlook
+2021-10-29,Central bank policy shift affects Index_E outlook
+2021-11-01,Global ESG trend supports Index_F momentum
+2021-11-02,Global ESG trend supports Index_B momentum
+2021-11-05,Analysts forecast growth in Index_D following earnings beat
+2021-11-08,Central bank policy shift affects Index_E outlook
+2021-11-11,Central bank policy shift affects Index_F outlook
+2021-11-15,Energy prices impact Index_D amid geopolitical tensions
+2021-11-16,Tech stocks surge as Index_C breaks record high
+2021-11-19,Sustainable investments boost Index_D performance
+2021-11-22,Analysts forecast growth in Index_E following earnings beat
+2021-11-23,Analysts forecast growth in Index_D following earnings beat
+2021-11-29,Central bank policy shift affects Index_C outlook
+2021-12-06,Index_B declines as recession fears mount
+2021-12-07,Crypto market rally lifts Index_F to new levels
+2021-12-10,Energy prices impact Index_D amid geopolitical tensions
+2021-12-13,Global ESG trend supports Index_F momentum
+2021-12-14,Oil price drop weighs on markets sector
+2021-12-17,Sustainable investments boost Index_F performance
+2021-12-20,Analysts forecast growth in Index_D following earnings beat
+2021-12-23,Oil price drop weighs on Index_A sector
+2021-12-27,Analysts forecast growth in Index_B following earnings beat
+2021-12-28,Tech stocks surge as Index_C breaks record high
+2021-12-29,Analysts forecast growth in Index_C following earnings beat
+2021-12-31,Index_D volatility spikes on Federal Reserve announcement
+2022-01-04,markets declines as recession fears mount
+2022-01-07,Tech stocks surge as Index_F breaks record high
+2022-01-10,Energy prices impact Index_F amid geopolitical tensions
+2022-01-11,Analysts forecast growth in Index_C following earnings beat
+2022-01-12,Analysts forecast growth in Index_F following earnings beat
+2022-01-14,Crypto market rally lifts Index_F to new levels
+2022-01-17,Oil price drop weighs on Index_B sector
+2022-01-20,Analysts forecast growth in Index_E following earnings beat
+2022-01-24,Central bank policy shift affects Index_D outlook
+2022-01-25,Analysts forecast growth in Index_B following earnings beat
+2022-02-01,Sustainable investments boost Index_D performance
+2022-02-02,Global ESG trend supports Index_B momentum
+2022-02-03,Central bank policy shift affects markets outlook
+2022-02-04,Index_B declines as recession fears mount
+2022-02-08,Index_F declines as recession fears mount
+2022-02-09,Sustainable investments boost Index_F performance
+2022-02-10,Central bank policy shift affects Index_D outlook
+2022-02-14,Crypto market rally lifts markets to new levels
+2022-02-17,Central bank policy shift affects Index_B outlook
+2022-02-28,Energy prices impact Index_B amid geopolitical tensions
+2022-03-04,Oil price drop weighs on Index_B sector
+2022-03-08,Index_C declines as recession fears mount
+2022-03-09,Global ESG trend supports Index_C momentum
+2022-03-10,Energy prices impact Index_D amid geopolitical tensions
+2022-03-11,Sustainable investments boost Index_D performance
+2022-03-21,Analysts forecast growth in Index_B following earnings beat
+2022-03-22,Global ESG trend supports Index_F momentum
+2022-04-12,Tech stocks surge as Index_D breaks record high
+2022-04-14,Global ESG trend supports Index_A momentum
+2022-04-19,Analysts forecast growth in Index_C following earnings beat
+2022-04-21,Analysts forecast growth in Index_D following earnings beat
+2022-04-25,Global ESG trend supports markets momentum
+2022-04-26,Global ESG trend supports Index_F momentum
+2022-04-27,Tech stocks surge as Index_C breaks record high
+2022-04-28,Sustainable investments boost Index_F performance
+2022-04-29,Tech stocks surge as Index_B breaks record high
+2022-05-05,Tech stocks surge as Index_A breaks record high
+2022-05-11,Oil price drop weighs on Index_C sector
+2022-05-12,Oil price drop weighs on Index_D sector
+2022-05-18,Central bank policy shift affects Index_C outlook
+2022-05-19,Oil price drop weighs on Index_A sector
+2022-05-25,Global ESG trend supports markets momentum
+2022-05-26,Index_F volatility spikes on Federal Reserve announcement
+2022-05-31,Crypto market rally lifts Index_D to new levels
+2022-06-03,Global ESG trend supports Index_F momentum
+2022-06-08,Index_D declines as recession fears mount
+2022-06-09,markets declines as recession fears mount
+2022-06-20,Tech stocks surge as Index_D breaks record high
+2022-06-23,Global ESG trend supports Index_D momentum
+2022-06-29,Oil price drop weighs on Index_F sector
+2022-06-30,Sustainable investments boost Index_E performance
+2022-07-07,Index_C declines as recession fears mount
+2022-07-13,Analysts forecast growth in markets following earnings beat
+2022-07-20,Global ESG trend supports Index_D momentum
+2022-07-27,Tech stocks surge as Index_D breaks record high
+2022-08-01,Sustainable investments boost Index_F performance
+2022-08-02,Central bank policy shift affects Index_D outlook
+2022-08-03,Index_D declines as recession fears mount
+2022-08-04,Index_A declines as recession fears mount
+2022-08-08,Index_A declines as recession fears mount
+2022-08-15,Global ESG trend supports Index_F momentum
+2022-08-17,Global ESG trend supports Index_B momentum
+2022-08-22,Central bank policy shift affects markets outlook
+2022-08-30,Crypto market rally lifts Index_C to new levels
+2022-08-31,Index_C volatility spikes on Federal Reserve announcement
+2022-09-01,Sustainable investments boost markets performance
+2022-09-07,Analysts forecast growth in Index_F following earnings beat
+2022-09-08,Tech stocks surge as Index_B breaks record high
+2022-09-09,Global ESG trend supports markets momentum
+2022-09-12,Energy prices impact Index_A amid geopolitical tensions
+2022-09-13,Analysts forecast growth in Index_D following earnings beat
+2022-09-23,Tech stocks surge as Index_F breaks record high
+2022-10-06,Sustainable investments boost Index_F performance
+2022-10-11,Crypto market rally lifts Index_C to new levels
+2022-10-12,Index_B volatility spikes on Federal Reserve announcement
+2022-10-13,Tech stocks surge as markets breaks record high
+2022-10-14,Central bank policy shift affects Index_E outlook
+2022-10-18,Index_A volatility spikes on Federal Reserve announcement
+2022-10-24,Tech stocks surge as Index_B breaks record high
+2022-10-31,Index_C volatility spikes on Federal Reserve announcement
+2022-11-07,Analysts forecast growth in Index_A following earnings beat
+2022-11-10,Analysts forecast growth in Index_E following earnings beat
+2022-11-11,Analysts forecast growth in Index_A following earnings beat
+2022-11-14,Analysts forecast growth in Index_C following earnings beat
+2022-11-22,Sustainable investments boost Index_E performance
+2022-11-28,Oil price drop weighs on markets sector
+2022-11-29,Index_F declines as recession fears mount
+2022-12-06,Index_F declines as recession fears mount
+2022-12-12,Tech stocks surge as Index_B breaks record high
+2022-12-13,Index_E volatility spikes on Federal Reserve announcement
+2022-12-14,Analysts forecast growth in Index_C following earnings beat
+2022-12-15,Tech stocks surge as markets breaks record high
+2022-12-16,Index_E volatility spikes on Federal Reserve announcement
+2022-12-20,Oil price drop weighs on Index_F sector
+2022-12-23,Index_F volatility spikes on Federal Reserve announcement
+2022-12-26,Sustainable investments boost Index_F performance
+2022-12-27,Index_B declines as recession fears mount
+2022-12-30,Sustainable investments boost Index_A performance
+2023-01-04,Global ESG trend supports Index_E momentum
+2023-01-11,Crypto market rally lifts Index_B to new levels
+2023-01-16,Oil price drop weighs on Index_B sector
+2023-01-18,Energy prices impact markets amid geopolitical tensions
+2023-01-23,Tech stocks surge as Index_F breaks record high
+2023-01-27,Oil price drop weighs on Index_A sector
+2023-01-31,Crypto market rally lifts Index_D to new levels
+2023-02-03,Central bank policy shift affects Index_C outlook
+2023-02-07,Crypto market rally lifts Index_A to new levels
+2023-02-14,Crypto market rally lifts Index_F to new levels
+2023-02-20,Crypto market rally lifts Index_D to new levels
+2023-02-27,Analysts forecast growth in Index_A following earnings beat
+2023-03-01,Index_A declines as recession fears mount
+2023-03-02,Analysts forecast growth in Index_B following earnings beat
+2023-03-09,markets volatility spikes on Federal Reserve announcement
+2023-03-13,Analysts forecast growth in Index_A following earnings beat
+2023-03-15,Index_B volatility spikes on Federal Reserve announcement
+2023-03-22,Central bank policy shift affects Index_F outlook
+2023-03-27,Analysts forecast growth in Index_C following earnings beat
+2023-03-28,Index_E declines as recession fears mount
+2023-03-29,Crypto market rally lifts Index_D to new levels
+2023-03-30,Tech stocks surge as Index_A breaks record high
+2023-04-04,Index_D declines as recession fears mount
+2023-04-07,Analysts forecast growth in Index_B following earnings beat
+2023-04-12,Energy prices impact Index_C amid geopolitical tensions
+2023-04-13,Tech stocks surge as Index_E breaks record high
+2023-04-14,Central bank policy shift affects markets outlook
+2023-04-17,Energy prices impact Index_C amid geopolitical tensions
+2023-04-18,Central bank policy shift affects Index_C outlook
+2023-04-19,Central bank policy shift affects markets outlook
+2023-04-26,Central bank policy shift affects Index_B outlook
+2023-04-27,Global ESG trend supports Index_F momentum
+2023-05-01,Crypto market rally lifts Index_A to new levels
+2023-05-10,Crypto market rally lifts Index_A to new levels
+2023-05-11,Index_B declines as recession fears mount
+2023-05-15,Index_F declines as recession fears mount
+2023-05-23,Crypto market rally lifts Index_B to new levels
+2023-05-24,Tech stocks surge as Index_E breaks record high
+2023-05-29,Oil price drop weighs on Index_C sector
+2023-05-31,Index_E volatility spikes on Federal Reserve announcement
+2023-06-02,Global ESG trend supports Index_E momentum
+2023-06-06,Oil price drop weighs on Index_C sector
+2023-06-14,Energy prices impact markets amid geopolitical tensions
+2023-06-16,Oil price drop weighs on Index_F sector
+2023-06-20,Oil price drop weighs on Index_D sector
+2023-06-21,Index_F declines as recession fears mount
+2023-06-26,Energy prices impact Index_A amid geopolitical tensions
+2023-06-28,Oil price drop weighs on Index_B sector
+2023-07-05,Sustainable investments boost Index_D performance
+2023-07-10,Global ESG trend supports Index_C momentum
+2023-07-11,Analysts forecast growth in Index_E following earnings beat
+2023-07-13,Index_A declines as recession fears mount
+2023-07-18,Central bank policy shift affects Index_D outlook
+2023-07-26,Tech stocks surge as Index_D breaks record high
+2023-07-27,Tech stocks surge as Index_E breaks record high
+2023-07-28,Tech stocks surge as markets breaks record high
+2023-08-01,Central bank policy shift affects Index_C outlook
+2023-08-02,Tech stocks surge as Index_E breaks record high
+2023-08-07,Analysts forecast growth in Index_C following earnings beat
+2023-08-09,Index_A volatility spikes on Federal Reserve announcement
+2023-08-14,Crypto market rally lifts Index_D to new levels
+2023-08-24,Analysts forecast growth in Index_F following earnings beat
+2023-08-28,Sustainable investments boost Index_A performance
+2023-08-29,Sustainable investments boost Index_B performance
+2023-08-30,Sustainable investments boost Index_B performance
+2023-08-31,Crypto market rally lifts markets to new levels
+2023-09-04,Index_D volatility spikes on Federal Reserve announcement
+2023-09-06,Analysts forecast growth in Index_B following earnings beat
+2023-09-07,Energy prices impact Index_A amid geopolitical tensions
+2023-09-11,Crypto market rally lifts Index_E to new levels
+2023-09-12,Index_B declines as recession fears mount
+2023-09-15,Oil price drop weighs on markets sector
+2023-09-20,Oil price drop weighs on Index_F sector
+2023-09-22,Index_A volatility spikes on Federal Reserve announcement
+2023-09-25,Oil price drop weighs on Index_E sector
+2023-09-26,Energy prices impact Index_A amid geopolitical tensions
+2023-09-29,Global ESG trend supports Index_B momentum
+2023-10-02,Crypto market rally lifts Index_B to new levels
+2023-10-03,Sustainable investments boost Index_B performance
+2023-10-05,markets volatility spikes on Federal Reserve announcement
+2023-10-11,Tech stocks surge as Index_E breaks record high
+2023-10-12,Oil price drop weighs on Index_B sector
+2023-10-17,Tech stocks surge as Index_B breaks record high
+2023-10-20,Oil price drop weighs on Index_B sector
+2023-10-23,Global ESG trend supports Index_C momentum
+2023-10-24,Energy prices impact markets amid geopolitical tensions
+2023-10-25,Crypto market rally lifts markets to new levels
+2023-10-26,Energy prices impact Index_A amid geopolitical tensions
+2023-10-27,Sustainable investments boost Index_F performance
+2023-10-30,Index_C volatility spikes on Federal Reserve announcement
+2023-10-31,markets volatility spikes on Federal Reserve announcement
+2023-11-01,Global ESG trend supports Index_C momentum
+2023-11-02,Sustainable investments boost Index_F performance
+2023-11-09,Central bank policy shift affects Index_A outlook
+2023-11-10,Index_E declines as recession fears mount
+2023-11-14,Tech stocks surge as Index_C breaks record high
+2023-11-16,Analysts forecast growth in Index_E following earnings beat
+2023-11-20,Oil price drop weighs on Index_B sector
+2023-11-23,Tech stocks surge as Index_A breaks record high
+2023-11-27,Analysts forecast growth in Index_F following earnings beat
+2023-11-28,Global ESG trend supports Index_C momentum
+2023-11-29,Index_E volatility spikes on Federal Reserve announcement
+2023-11-30,Sustainable investments boost Index_C performance
+2023-12-01,Tech stocks surge as Index_F breaks record high
+2023-12-05,Analysts forecast growth in Index_C following earnings beat
+2023-12-06,Index_F declines as recession fears mount
+2023-12-08,Index_F declines as recession fears mount
+2023-12-11,Crypto market rally lifts Index_B to new levels
+2023-12-14,Oil price drop weighs on Index_E sector
+2023-12-15,Energy prices impact Index_A amid geopolitical tensions
+2023-12-18,Tech stocks surge as Index_D breaks record high
+2023-12-22,Oil price drop weighs on markets sector
+2023-12-26,Index_E volatility spikes on Federal Reserve announcement
+2023-12-28,Crypto market rally lifts Index_C to new levels
+2023-12-29,Analysts forecast growth in Index_D following earnings beat
