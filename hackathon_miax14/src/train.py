@@ -139,6 +139,9 @@ def run(
         val_model = _train_full(X_train, y_train, feature_cols, lgbm_params,
                                  index_d_ghost_weight, lgbm_weight, X_val, y_val)
         val_pred = val_model.predict(X_val, index_a_lag1=X_val.get("Index_A_lag1"))
+        val_pred_path = Path("results/val_preds.csv")
+        os.makedirs(val_pred_path.parent, exist_ok=True)
+        val_pred.to_csv(val_pred_path)
         avg_rmse = rmse(y_val, val_pred)
         per_idx  = per_index_rmse(y_val, val_pred)
         print(f"{'='*50}")

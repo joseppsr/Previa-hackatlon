@@ -19,8 +19,12 @@ INDICES = ["Index_A", "Index_B", "Index_C", "Index_D", "Index_E", "Index_F"]
 COL_MAP = {f"pred_index_{c.split('_')[1].lower()}": c for c in INDICES}
 
 
-def plot(submission_path: str, indices_csv: str, output_path: str, history_days: int = 500):
+def plot(submission_path: str, indices_csv: str, output_path: str, history_days: int = 500, val_csv: str = None):
     hist = pd.read_csv(indices_csv, parse_dates=["Date"], index_col="Date")
+    
+    val = None
+    if val_csv and Path(val_csv).exists():
+        val = pd.read_csv(val_csv, parse_dates=["Date"], index_col="Date")
     sub = pd.read_excel(submission_path, sheet_name="submission", parse_dates=["Date"])
     sub = sub.rename(columns=COL_MAP).set_index("Date")
 
@@ -32,6 +36,11 @@ def plot(submission_path: str, indices_csv: str, output_path: str, history_days:
         p = sub[col]
         # bridge between last historical point and first prediction
         ax.plot(h.index, h.values, color="black", lw=0.9, label="Histórico")
+        
+        if val is not None and col in val.columns:
+            v = val[col]
+            ax.plot(v.index, v.values, color="mediumseagreen", lw=1.2, label="Validación")
+
         ax.plot([h.index[-1], p.index[0]], [h.iloc[-1], p.iloc[0]], color="darkorange", lw=1.1)
         ax.plot(p.index, p.values, color="darkorange", lw=1.4, label="Predicción")
         ax.axvline(x=p.index[0], color="gray", ls="--", lw=0.8, alpha=0.7)
@@ -63,8 +72,9 @@ if __name__ == "__main__":
     parser.add_argument("--submission", required=True)
     parser.add_argument("--indices-csv", default=str(here.parent / "data" / "train_indices.csv"))
     parser.add_argument("--output", default=None)
+    parser.add_argument("--val-csv", default=None, help="Path to validation predictions CSV")
     parser.add_argument("--history-days", type=int, default=500)
     args = parser.parse_args()
 
     output = args.output or args.submission.rsplit(".", 1)[0] + ".png"
-    plot(args.submission, args.indices_csv, output, args.history_days)
+    plot(args.submission, args.indices_csv, output, args.history_days, args.val_csv)
