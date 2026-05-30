@@ -1,0 +1,18 @@
+{
+  "submission": "submission1_finBERT.xlsx",
+  "date": "2026-05-30",
+  "model": "LightGBM + XGBoost ensemble (lgbm_weight=0.5, index_d_ghost_weight=0.7) + FinBERT sentiment",
+  "notes": "Index_C y Index_F excelentes. Index_A y Index_D muy malos (escala ~1.9M).",
+  "results": {
+    "mae_global":   234300.7867,
+    "rmse_macro":   247181.0217,
+    "per_index": {
+      "Index_A": { "mae": 648398.7833, "rmse": 677257.1126 },
+      "Index_B": { "mae":  67116.7921, "rmse":  82136.0530 },
+      "Index_C": { "mae":   3238.4927, "rmse":   4299.5343 },
+      "Index_D": { "mae": 649128.0377, "rmse": 678880.4884 },
+      "Index_E": { "mae":  37464.7569, "rmse":  39851.8166 },
+      "Index_F": { "mae":    457.8574, "rmse":    661.1254 }
+    }
+  }
+}

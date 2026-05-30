@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+submissions/*.xlsx
+!submissions/template_*.xlsx
+models/
+*.pkl
+*.joblib
+.venv/
+predicciones/*.xlsx
