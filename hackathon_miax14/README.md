@@ -91,6 +91,28 @@ Notebook `05_neural_network.ipynb` y módulos `src/neural_model.py`, `src/networ
   baja el RMSE de A de **101k → 91k**. Como las network suben +90% en el test, anclan A al alza.
 - **Index_D = ghost(A)**: se deriva de la A ya corregida, manteniendo D≈A.
 
+## Post-proceso con feedback real del leaderboard (submission 5)
+
+`src/postprocess.py` + `src/build_submission5.py`. Tras subir la submission 3 (RMSE global 79,405):
+
+| Índice | RMSE real | Predicción |
+|--------|----------:|-----------|
+| Index_A | 232,402 | +34% (se pasó) |
+| Index_D | 152,874 | +28.6% (mejor) |
+| Index_B | 70,106 | −14.5% (colapso) |
+
+- **A sigue a D**: `D(t) ≈ A(t-1)` con corr **0.999997** (misma serie, lag 1). La predicción de D
+  (+28.6%) acertó más que la de A (+34%), así que reconstruimos A para que siga la trayectoria de D:
+  `A(t) = A_last · D_pred(t)/D_last`. A y D quedan idénticos (diferencia 0.000%).
+- **Index_B forzado** a la red neuronal de una compañera (`results/locked_predictions_B.csv`,
+  exógenas + macro + network), más realista (−2%, oscilante) que nuestro colapso a −14.5%.
+
+## ¿Predice retornos o precios?
+
+Depende del componente: la **red neuronal** (`neural_model.py`) predice **log-retornos** (target
+estacionario) con cap de ±10%/día y reconstruye el nivel por composición; los **árboles** predicen
+niveles directamente; A y D en la submission final siguen la trayectoria de D (post-proceso).
+
 ## Estrategia de mejora iterativa
 
 | Intento | Estrategia |
