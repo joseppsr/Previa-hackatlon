@@ -27,15 +27,18 @@ SUBMISSION_COLS = {
 def make_A_follow_D(preds: pd.DataFrame, train_idx: pd.DataFrame,
                     col_a="pred_index_a", col_d="pred_index_d") -> pd.DataFrame:
     """
-    A and D are the same series (lag 1). D's forecast scored better, so rebuild
-    A to follow D's shape, rescaled to A's own last level:
-        A(t) = A_last × D_pred(t) / D_last
-    The 1-day lead of A over D is negligible at this horizon (~0.06%/day).
+    A and D are the SAME series with a 1-day lag: D(t) = A(t-1), i.e. A(t) = D(t+1).
+    So A is simply D shifted one day forward.
+
+    Validated on the last real year (deriving A from real D):
+        A = D.shift(-1)           RMSE  3,837   ← correct lag
+        A = D (same level)        RMSE 23,931
+        A = A_last*D/D_last       RMSE 36,067   ← the wrong scaling used before
+    The ratio scaling injected a ~2% bias (A_last/D_last = 1.0197) and inflated
+    Index_A's error to 188k vs D's 152k. With the right shift, A ≈ D's error.
     """
     out = preds.copy()
-    a_last = float(train_idx["Index_A"].iloc[-1])
-    d_last = float(train_idx["Index_D"].iloc[-1])
-    out[col_a] = a_last * (out[col_d] / d_last)
+    out[col_a] = out[col_d].shift(-1).ffill()   # A(t) = D(t+1)
     return out
 
 
