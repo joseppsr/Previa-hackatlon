@@ -77,6 +77,20 @@ jupyter lab
 
 Resultado: `Index_A` pasa de **-29.5% → +3.2%** y `Index_D` de **-28.4% → +4.3%** (dirección alcista correcta).
 
+## Red neuronal + network anchor (Index_A, Index_B, Index_D)
+
+Notebook `05_neural_network.ipynb` y módulos `src/neural_model.py`, `src/network_anchor.py`.
+
+- **MLP sobre log-retornos** (`NeuralReturnModel`): a diferencia de los árboles, una red entrenada para
+  predecir el log-retorno diario (target estacionario) puede seguir subiendo más allá del máximo
+  histórico, reconstruyendo el nivel por composición `nivel(t)=nivel(t-1)·exp(r̂)`. Usa solo features
+  **estacionarias** (retornos + exógenas) y clip de ±10%/día para no explotar en autorregresivo.
+  En validación gana a los árboles en A, B y D (A: 161k→101k RMSE).
+- **Network anchor** (`network_anchor.py`): las network metrics correlacionan **~0.90 con Index_A en
+  niveles** (no en retornos) y sus valores en el test son **futuro conocido**. Blend 80% NN + 20% anchor
+  baja el RMSE de A de **101k → 91k**. Como las network suben +90% en el test, anclan A al alza.
+- **Index_D = ghost(A)**: se deriva de la A ya corregida, manteniendo D≈A.
+
 ## Estrategia de mejora iterativa
 
 | Intento | Estrategia |

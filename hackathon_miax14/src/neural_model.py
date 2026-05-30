@@ -27,6 +27,31 @@ from sklearn.pipeline import Pipeline
 
 # Indices the NN is responsible for (C and F stay locked from submission v1)
 NEURAL_INDICES = ["Index_A", "Index_B", "Index_D", "Index_E"]
+INDEX_NAMES = ["Index_A", "Index_B", "Index_C", "Index_D", "Index_E", "Index_F"]
+
+# Daily log-return clip — a hard stability guard against runaway composition
+MAX_DAILY_LOGRET = 0.10
+
+
+def select_stationary_features(feature_cols: list[str]) -> list[str]:
+    """
+    Keep only features that stay in-distribution during the autoregressive
+    loop. Index *level* features (lag / rolling-mean / ghost) diverge as the
+    forecast grows and blow up a return-composing NN, so we drop them.
+    We keep index *return* features (stationary) and all exogenous features
+    (macro, network, news, finbert, calendar — known/bounded in test).
+    """
+    keep = []
+    for c in feature_cols:
+        is_index_feat = any(c.startswith(idx) for idx in INDEX_NAMES)
+        if is_index_feat:
+            # only keep stationary return features of the indices
+            if "_ret" in c:
+                keep.append(c)
+            # drop _lag, _roll_mean, _roll_std, _ghost (level-based)
+        else:
+            keep.append(c)  # exogenous: macro, net, news, finbert, calendar
+    return keep
 
 
 def _make_mlp(hidden=(64, 32), alpha=1e-3, max_iter=300, seed=42) -> Pipeline:
@@ -59,22 +84,30 @@ class NeuralReturnModel:
         self.hidden = hidden
         self.alpha = alpha
         self.models: dict = {}
-        self.feature_cols: list = []
+        self.feature_cols: list = []      # full set (for the autoregressive interface)
+        self.nn_feature_cols: list = []   # stationary subset actually fed to the NN
         # flag read by predict_autoregressive to pass last_levels
         self.needs_last_levels = True
 
     def _log_returns(self, levels: pd.Series) -> pd.Series:
         return np.log(levels / levels.shift(1))
 
+    @staticmethod
+    def _clean(X: pd.DataFrame) -> pd.DataFrame:
+        """MLP/StandardScaler can't handle inf/NaN (trees can). Sanitize."""
+        return X.replace([np.inf, -np.inf], np.nan).fillna(0.0)
+
     def fit(self, X: pd.DataFrame, y_levels: pd.DataFrame,
             X_val=None, y_val=None):
         """y_levels: DataFrame of price levels (the same INDICES columns)."""
         self.feature_cols = list(X.columns)
+        self.nn_feature_cols = select_stationary_features(self.feature_cols)
+        Xc = self._clean(X[self.nn_feature_cols])
         for idx in self.indices:
             target = self._log_returns(y_levels[idx])
             mask = target.notna() & np.isfinite(target)
             model = _make_mlp(self.hidden, self.alpha)
-            model.fit(X[mask], target[mask])
+            model.fit(Xc[mask], target[mask])
             self.models[idx] = model
 
     def predict(self, X: pd.DataFrame, last_levels: dict | None = None) -> pd.DataFrame:
@@ -86,11 +119,13 @@ class NeuralReturnModel:
         (single row) where last_levels is the previous day's level.
         """
         out = {}
+        Xc = self._clean(X[self.nn_feature_cols])
         for idx in self.indices:
-            r_hat = self.models[idx].predict(X[self.feature_cols])
+            r_hat = self.models[idx].predict(Xc)
+            # hard clip to prevent runaway exponential composition
+            r_hat = np.clip(r_hat, -MAX_DAILY_LOGRET, MAX_DAILY_LOGRET)
             if last_levels is not None and idx in last_levels:
                 out[idx] = last_levels[idx] * np.exp(r_hat)
             else:
-                # fall back to returning the raw log-return (rarely used)
                 out[idx] = r_hat
         return pd.DataFrame(out, index=X.index)
